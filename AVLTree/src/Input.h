@@ -1,0 +1,2 @@
+
+void Input(int* number);

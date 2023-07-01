@@ -1,0 +1,2 @@
+
+void PrintSortGraph(TStack* stack);

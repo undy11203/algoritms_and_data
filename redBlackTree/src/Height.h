@@ -1,0 +1,2 @@
+
+int BlackHeight(TTree* tree);
