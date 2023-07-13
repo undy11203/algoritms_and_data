@@ -5,6 +5,13 @@
 
 ## Список
 ### Алгоритмы
+#### Сортировки
+- [Сортировка кучей](heapSort)
+- [Быстрая сортировка](quickSort)
+- [Топ-сорт](topSort)
+#### Поиск
+----
+#### Другое
 - [Алгоритм Бойра-Мура](algorithmBireMoore)
 - [Алгоритм Рабина-Карпа](algorithmRabinKarp)
 - [Алгоритм Хаффмана](algorithmHaffman)
@@ -13,9 +20,6 @@
 - [Алгоритм Дейкстры](algorithmDijkstra)
 - [Алгоритм Нарайаны](algorithmNarayana)
 - [Алгоритм перевода из одной с.с. в другую с.с.](convertationSystemOfCalculation)
-- [Сортировка кучей](heapSort)
-- [Быстрая сортировка](quickSort)
-- [Топ-сорт](topSort)
 - [Обратная польская нотация](reversePolishNotation)
 
 ### Структуры данных
