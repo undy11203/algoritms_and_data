@@ -43,3 +43,5 @@
 ### Хэши
 - [Идеальный хэш](idealHash)
 - [Фильтр Блума](filterBlum)
+### Кэш
+- [LRU cache](LRUcache)
