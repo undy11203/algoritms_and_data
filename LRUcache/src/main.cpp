@@ -30,7 +30,6 @@ public:
             head = head->next;
             delete temp;
         }
-        delete tail;
     }
     Value get(Key key);
     void put(Key key, Value val);
